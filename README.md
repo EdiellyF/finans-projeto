@@ -15,5 +15,5 @@ Este projeto é parte de um curso que demonstra o uso de CSS e Bootstrap para cr
 1. Clone este repositório:
 
 ```bash
-
+git clone https://github.com/EdiellyF/finans-projeto.git
 
